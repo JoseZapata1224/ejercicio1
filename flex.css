@@ -1,0 +1,25 @@
+header {
+    display: flex;
+}
+
+h1 {
+    display: inline-block;
+}
+
+.container {
+    display: flex;
+    width: 90vw;
+    justify-content: flex-end;
+}
+
+.flex-items {
+    display: flex;    
+}
+
+.ul-container {
+    width: 20vw;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    
+}
